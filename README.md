@@ -1,6 +1,6 @@
 ## Analyse d'une plateforme qui organise des "speed dating"
 
-Notre projet, mené dans le cadre de l'unité d'enseignement Python pour le data-scientist, porte sur une analyse de données concernant des speed-dating.
+Notre projet, mené dans le cadre de l'unité d'enseignement *Python pour le data-scientist*, porte sur une analyse de données concernant des speed-dating.
 La base de données mise à disposition nous semblait intéressante et sortait de l'ordinaire pour mener un tel projet, ce qui nous a motivé à mener notre projet à bien.
 
 ## Problématique
